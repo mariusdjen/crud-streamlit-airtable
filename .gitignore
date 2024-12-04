@@ -1,0 +1,6 @@
+# Dossiers virtuels
+env/
+venv/
+
+# Fichiers de configuration
+*.env
